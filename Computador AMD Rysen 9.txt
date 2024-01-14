@@ -1,0 +1,24 @@
+AMD RYZEN 9 -> 7900
+
+12 	-> núcleos
+24 	-> threads
+3.7 GHz -> base clock
+5.4 GHz -> boost clock
+64 MB 	-> cache L3
+65 W	-> TDP
+
+
+ZEN 4	-> arquitetura
+5nm	-> litografia núcleos
+6nm	-> io die
+
+Tecnologias
+DDR5	-> memórias -> amd expo(overclock na bios das memórias)
+memórias não retrocompatível
+
+PCIe 5.0 suporte até a quinta geração
+Socket AM5 -> LGA 1718
+[X670E , X670] -> 12 USBs 10Gbps, 2 USBs 20Gbps, 8 Portas SATA
+[B650E , B650] -> 06 USBs 10Gbps, 1 USBs 20Gbps, 4 Portas SATA
+
+Placa de vídeo na PCIe 5.0 usar os sockets X670E e B650E

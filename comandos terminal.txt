@@ -1,0 +1,3 @@
+#### DOCKER 
+https://blog.cod3r.com.br/terminal-no-windows/
+https://blog.cod3r.com.br/terminal-no-macos-e-linux/
